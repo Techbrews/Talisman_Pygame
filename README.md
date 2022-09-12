@@ -15,3 +15,15 @@ Si no tienes experiencia no te preocupes, lo voy a intentar explicar de la mejor
  - *pip install pymediainfo*
  - *pip install ffpyplayer*
  - *pip install random*
+
+
+
+## Controles
+
+**W**: arriba
+**S**: abajo
+**D**: derecha
+**A**: izquierda
+**Q**: ataque con arma
+**E**: ataque con magia, por terminar
+**ESPACIO**: saltar intro/menú
