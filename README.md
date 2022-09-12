@@ -9,9 +9,9 @@ La parte artistica es la que menos puedo dejar bien acabada porque no tengo buen
 Para poder jugar, puede ser algo tedioso, pero necesitas tener instalado Python, así como las librerias que se usan.
 
 Si no tienes experiencia no te preocupes, lo voy a intentar explicar de la mejor forma posible:
-1) Puedes bajarte Python desde aqui: https://www.python.org/downloads/
-2) Abres "Símbolos de sistema" en tu Ordenador y vas introduciendo los siguientes comandos uno a uno:
-  - *pip install pygame*
-  - *pip install pymediainfo*
-  - *pip install ffpyplayer*
-  - *pip install random*
+1. Puedes bajarte Python desde aqui: https://www.python.org/downloads/
+2. Abres "Símbolos de sistema" en tu Ordenador y vas introduciendo los siguientes comandos uno a uno:
+        - *pip install pygame*
+        - *pip install pymediainfo*
+        - *pip install ffpyplayer*
+        - *pip install random*
