@@ -25,7 +25,7 @@ Si no tienes experiencia no te preocupes, lo voy a intentar explicar de la mejor
 - **D**: derecha
 - **A**: izquierda
 - **Q**: ataque con arma
-- **E**: ataque con magia, por terminar
+- **E**: ataque con magia (por terminar...)
 - **ESPACIO**: saltar intro/menú
 - **C**: cambiar arma
 - **V**: cambiar magia
