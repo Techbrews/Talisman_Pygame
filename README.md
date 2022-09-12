@@ -20,10 +20,10 @@ Si no tienes experiencia no te preocupes, lo voy a intentar explicar de la mejor
 
 ## Controles
 
-**W**: arriba
-**S**: abajo
-**D**: derecha
-**A**: izquierda
-**Q**: ataque con arma
-**E**: ataque con magia, por terminar
-**ESPACIO**: saltar intro/menú
+- **W**: arriba
+- **S**: abajo
+- **D**: derecha
+- **A**: izquierda
+- **Q**: ataque con arma
+- **E**: ataque con magia, por terminar
+- **ESPACIO**: saltar intro/menú
