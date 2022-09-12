@@ -32,4 +32,4 @@ Si no tienes experiencia no te preocupes, lo voy a intentar explicar de la mejor
 
 ## Para jugar
 
-Para comenzar el juego, hay que entrar en la carpeta Talisman y despues entrar en code, una vez en esta carpeta, hay que hacer doble click sobre el programa **main.py**. 
+Para comenzar el juego, hay que entrar en la carpeta **code**, una vez en esta carpeta, hay que hacer doble click sobre el programa **main.py**. 
