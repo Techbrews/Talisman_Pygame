@@ -27,3 +27,9 @@ Si no tienes experiencia no te preocupes, lo voy a intentar explicar de la mejor
 - **Q**: ataque con arma
 - **E**: ataque con magia, por terminar
 - **ESPACIO**: saltar intro/menú
+- **C**: cambiar arma
+- **V**: cambiar magia
+
+## Para jugar
+
+Para comenzar el juego, hay que entrar en la carpeta Talisman y despues entrar en code, una vez en esta carpeta, hay que hacer doble click sobre el programa **main.py**. 
